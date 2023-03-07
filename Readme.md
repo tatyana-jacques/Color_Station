@@ -1,2 +1,2 @@
 <h2>Color-Station</h2>
-<p>Exercício de encaminhamento de mensagens por meio de filas utilizando mensageria RabbitMQ desenvolvido durante o curso DEVinHouse Sesi/Senai(2022-2023).
+<p>Exercise of sending messages through queues using RabbitMQ. Developed during the Sesi/Senai's DEVinHouse course (2022-2023).</p>

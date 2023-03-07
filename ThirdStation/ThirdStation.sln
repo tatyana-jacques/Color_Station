@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdStation", "ThirdStation\ThirdStation.csproj", "{843A8285-BD55-40AC-87F5-0EE05680A793}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{843A8285-BD55-40AC-87F5-0EE05680A793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{843A8285-BD55-40AC-87F5-0EE05680A793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{843A8285-BD55-40AC-87F5-0EE05680A793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{843A8285-BD55-40AC-87F5-0EE05680A793}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A44E9850-5D34-48BD-A2D4-EB2CF9BC9A1D}
+	EndGlobalSection
+EndGlobal
